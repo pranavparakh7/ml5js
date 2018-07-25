@@ -9,5 +9,5 @@ function setup(){
 }
 
 function draw(){
-  image(video,0,0,320,240)
+  //image(video,0,0,320,240)
 }
